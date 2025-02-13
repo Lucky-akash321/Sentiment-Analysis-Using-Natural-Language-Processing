@@ -1,5 +1,7 @@
 # Sentiment Analysis Using Natural Language Processing (NLP)
 
+![](https://github.com/Lucky-akash321/Sentiment-Analysis-Using-Natural-Language-Processing/blob/main/NLP.jpg)
+
 ## Introduction
 **Sentiment Analysis** is a Natural Language Processing (NLP) technique used to determine the **emotional tone** behind text data. It is widely used in customer feedback analysis, social media monitoring, brand reputation management, and more.
 
